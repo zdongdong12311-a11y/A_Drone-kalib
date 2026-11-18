@@ -1,7 +1,8 @@
 # D455 视觉定位自主导航无人机
 
 基于 **Intel RealSense D455 + VINS-Fusion + Ego-Planner + PX4** 的轻量级自主导航避障无人机系统，支持室内视觉定位、实时避障、航点巡航与仿真验证。
-![preview](real-image1.png)
+![preview](real-image1.jpg)
+![preview](real-image2.jpg)
 ---
 
 ## 硬件配置
